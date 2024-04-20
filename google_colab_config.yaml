@@ -1,0 +1,6 @@
+path: /content/gdrive/MyDrive/Colab Notebooks/data
+train: /content/gdrive/MyDrive/Colab Notebooks/data/images/train
+val:  /content/gdrive/MyDrive/Colab Notebooks/data/images/val
+
+names: ["crop", "weed"]
+
